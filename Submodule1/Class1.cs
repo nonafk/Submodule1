@@ -4,4 +4,9 @@
     {
 
     }
+
+    public class TestSUb
+    {
+        public string HelloWord { get; set; }
+    }
 }
